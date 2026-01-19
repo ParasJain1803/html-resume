@@ -1,0 +1,81 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+nav a {
+  margin: 0 20px;
+  font-size: 23px;
+  text-decoration: none;
+  color: dimgrey;
+}
+h4 {
+   margin: 20px;
+  font-size: 23px;
+  text-decoration: none;
+  color: dimgrey;
+}
+#home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#email-btn {
+      margin-bottom: 40px;
+  padding: 12px 20px;
+  background-color: #2563eb;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+}
+form {
+  width: fit-content;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 5px solid gray;
+}
+#submit-btn {
+  color: #edfbc1;
+  background-color: #654236;
+  font-size: 15px;
+  padding: 5px;
+  font-weight: 700;
+  border: 2px solid #112A46;
+}
+.mic-btn {
+  font-size: 20px;
+  color: #fca311;
+  background-color: #14213d;
+}
+.search-btn {
+  font-size: 20px;
+  color: #fffff2;
+  background-color: #791e94;
+}
+.top-btn {
+  padding: 10px;
+  color: #edfbc1;
+  background-color: #14213d;
+}
+.cert-btn {
+  margin-top: 8px;
+  padding: 10px 16px;
+  background-color: #14532d;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
